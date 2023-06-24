@@ -64,7 +64,7 @@
       "date": "13",
       "month": "6",
       "year": "2023",
-      "description": "I want to take her to EyeDoctor",
+      "description": "EyeDoctor @3PM",
       "childId": 1
     },  {
       "id": 2,
@@ -117,7 +117,7 @@
     {
       "id": 1,
       "childId": 1,
-      "photos": ["https://ik.imagekit.io/zhpwq1uen/jeremy-mcknight-11GZVrMzfUU-unsplash.jpg?updatedAt=1686826085269"]
+      "photos": ["https://ik.imagekit.io/zhpwq1uen/Final_Project/swim_in.jpeg?updatedAt=1687633656462","https://ik.imagekit.io/zhpwq1uen/Final_Project/skate_in.jpeg?updatedAt=1687633656110","https://ik.imagekit.io/zhpwq1uen/Final_Project/dance_in.jpeg?updatedAt=1687633656496","https://ik.imagekit.io/zhpwq1uen/Final_Project/Inu-medal.jpeg?updatedAt=1687633656847"]
     }, {
       "id": 2,
       "childId": 2,
