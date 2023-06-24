@@ -25,21 +25,21 @@
       "name": "Inara",
       "age": "12",
       "parentId": 1,
-      "photo": "https://ik.imagekit.io/zhpwq1uen/Final_Project/Girl_12.webp?updatedAt=1687596468990"
+      "photo": "https://ik.imagekit.io/zhpwq1uen/Final_Project/alps_in.jpeg?updatedAt=1687633656955"
     },
     {
       "id": 2,
       "name": "Idhant",
       "age": "9",
       "parentId": 1,
-      "photo": "https://ik.imagekit.io/zhpwq1uen/ben-white-qDY9ahp0Mto-unsplash.jpg?updatedAt=1686826083080"
+      "photo": "https://ik.imagekit.io/zhpwq1uen/Final_Project/Idhu.jpeg?updatedAt=1687639038365"
     },
      {
       "id": 3,
       "name": "Inu",
       "age": "11",
       "parentId": 2,
-      "photo": "https://ik.imagekit.io/zhpwq1uen/senjuti-kundu-JfolIjRnveY-unsplash.jpg?updatedAt=1686826084045"
+      "photo": "https://ik.imagekit.io/zhpwq1uen/Final_Project/alps_in.jpeg?updatedAt=1687633656955"
     },
        {
       "id": 4,
